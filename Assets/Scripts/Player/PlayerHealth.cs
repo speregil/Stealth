@@ -46,6 +46,11 @@ public class PlayerHealth : MonoBehaviour
         }
     }
     
+	 void OnCollisionEnter( Collision hit)
+	{
+		print("object is "  + hit.gameObject.name);
+		print("collider is " + hit.collider.name);
+	}
     
     void PlayerDying ()
     {

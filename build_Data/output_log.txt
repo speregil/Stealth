@@ -1,0 +1,21 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 4350 (ID=0x954f)
+    Vendor:   ATI
+    VRAM:     506 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gabrie\Documents\Desarrollo de Videojuegos\Stealth\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabrie\Documents\Desarrollo de Videojuegos\Stealth\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabrie\Documents\Desarrollo de Videojuegos\Stealth\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gabrie\Documents\Desarrollo de Videojuegos\Stealth\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+NullReferenceException: Object reference not set to an instance of an object
+  at LastPlayerSighting.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
